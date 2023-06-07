@@ -90,4 +90,8 @@ form button:hover {
     body {
         margin: auto 30px;
     }
+
+    .linha {
+        border: 2px solid var(--cor4);
+    }
 }
